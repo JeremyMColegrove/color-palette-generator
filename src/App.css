@@ -8,7 +8,11 @@
   display: flex;
   gap:1rem;
 }
-
+.container {
+  display: flex;
+  gap:2rem;
+  justify-content: center;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
